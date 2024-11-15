@@ -1,0 +1,9 @@
+_MACOSX/
+cropped_faces2/
+Database/
+Database.zip
+InsightFace.ipynb.zip
+Pipfile
+Pipfile.lock
+test1.jpeg
+test2.jpeg
